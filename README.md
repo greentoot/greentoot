@@ -5,9 +5,9 @@
 
 <br />
 
-<!-- 3D cube -->
+<!-- penguin -->
 <div align="center">
-  <img src="./cube.svg" width="160" height="160" alt="rotating cube" />
+  <img src="./tux.svg" width="160" height="160" alt="waddling penguin" />
 </div>
 
 <p align="center">
