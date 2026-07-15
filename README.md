@@ -35,9 +35,13 @@
 
 <!-- contact -->
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail" />
+  <a href="mailto:Anthony.loiseau2048@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="gmail" />
+  </a>
   <img width="6" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord" />
+  <a href="https://discord.com/users/744985993807134861">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="30" alt="discord" />
+  </a>
   <img width="6" />
   <a href="https://leetcode.com/u/Anthony4524535/">
     <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=F5A623&logoColor=white&style=for-the-badge" height="30" alt="leetcode" />
